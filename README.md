@@ -5,7 +5,7 @@ I have been working as a software developer in a field related to medical care.
 I'm live in Seoul, South Korea.
 
 
-<h3>Things I Code with</h3>
+<h3>Have experience in</h3>
 <a href="/"><img src="https://img.shields.io/badge/{name}-{color}?style=flat-square&logo={badgename}&logoColor=white"></a>
 <!--Frontend-->
 <a href="/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></a>
@@ -24,7 +24,12 @@ I'm live in Seoul, South Korea.
 <a href="/"><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"></a>
-<!--DevOps-->
+<!--OS & WAS-->
+<a href="/"><img src="https://img.shields.io/badge/WindowsServer-0078D6?style=flat-square&logo=WindowsServer&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/IIS-0078D6?style=flat-square&logo=WindowsServer&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"></a>
+<!--Etc-->
 <a href="/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"></a>
