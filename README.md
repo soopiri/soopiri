@@ -15,7 +15,6 @@ I'm live in Seoul, South Korea.
 <a href="/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"></a>
 
-
 <!--Backend-->
 <a href="/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"></a>
@@ -30,4 +29,12 @@ I'm live in Seoul, South Korea.
 <a href="/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"></a>
 
 <!--DevOps-->
+<a href="/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/GoogleCloudFlatform-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"></a>
+
