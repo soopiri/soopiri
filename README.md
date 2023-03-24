@@ -1,5 +1,5 @@
 ## 👋 Hi there! Good to see you.
----
+<hr/>
 Welcome to my github.
 I have been working as a software developer in a field related to medical care from Seoul, South Korea.
 
