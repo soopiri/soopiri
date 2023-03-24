@@ -25,8 +25,8 @@ I'm live in Seoul, South Korea.
 <a href="/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"></a>
 <!--OS & WAS-->
-<a href="/"><img src="https://img.shields.io/badge/WindowsServer-0078D6?style=flat-square&logo=WindowsServer&logoColor=white"></a>
-<a href="/"><img src="https://img.shields.io/badge/IIS-0078D6?style=flat-square&logo=WindowsServer&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/WindowsServer-0078D6?style=flat-square&logo=Windows&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/IIS-0078D6?style=flat-square&logo=Windows&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"></a>
 <!--Etc-->
