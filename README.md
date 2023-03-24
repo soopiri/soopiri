@@ -9,4 +9,5 @@ I'm live in Seoul, South Korea.
 <a href="/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"></a>
 <a href="/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"></a>
-
+<a href="/"><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"></a>
+<a href="/"><img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"></a>
